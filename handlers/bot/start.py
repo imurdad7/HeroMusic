@@ -21,7 +21,7 @@ def start_(bot, message):
                 ],
                 [
                     InlineKeyboardButton(text="𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 ⭐", url=f"https://t.me/{OWNER_USERNAME}"),
-                    InlineKeyboardButton(text="𝐃𝐞𝐯 ✨", url="https://t.me/kode_isBack"),
+                    InlineKeyboardButton(text="𝐃𝐞𝐯 ✨", url="https://t.me/kode_is_Back"),
                 ],                
                 [                    
                     InlineKeyboardButton(text="𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 📒", callback_data="help_"),
@@ -84,7 +84,7 @@ def callback_query(Client, callback: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(text="𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 ⭐", url=f"https://t.me/{OWNER_USERNAME}"),
-                    InlineKeyboardButton(text="𝐃𝐞𝐯 ✨", url="https://t.me/kode_isBack"),
+                    InlineKeyboardButton(text="𝐃𝐞𝐯 ✨", url="https://t.me/kode_is_Back"),
                 ],                
                 [                    
                     InlineKeyboardButton(text="𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 📒", callback_data="help_"),
